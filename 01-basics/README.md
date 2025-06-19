@@ -8,7 +8,8 @@ This folder contains the foundational Go concepts I'm learning and practicing. E
 
 | Status | Topic             | What I Plan to Learn & Try                              |
 |--------|-------------------|----------------------------------------------------------|
-| ✅     | Variables & Types | Use `var` and `:=` with `int`, `string`, `bool`, etc.   |
+| ✅     | Hello World        | Simple print to terminal using `fmt.Println()`          |
+| ⬜️     | Variables & Types | Use `var` and `:=` with `int`, `string`, `bool`, etc.   |
 | ⬜️     | Functions         | Define functions with input/output, understand syntax   |
 | ⬜️     | Conditionals      | Try `if`, `else if`, `switch` statements                |
 | ⬜️     | Loops             | Write basic `for` loops and loop through slices         |
@@ -26,6 +27,7 @@ This folder contains the foundational Go concepts I'm learning and practicing. E
 
 - [Go by Example](https://gobyexample.com/) — Code-first examples
 - [Tour of Go](https://go.dev/tour/) — Official interactive course
+- (Optional) Run in terminal: `go install golang.org/x/website/tour@latest && tour`
 
 ---
 
